@@ -2,7 +2,7 @@ getgenv().values = {}
 local library = {} 
 
 local library = loadstring(game:HttpGet'https://raw.githubusercontent.com/CatzCode/PikaHub/main/Libraries/UI/bruh.lua')()
-library:CreateWatermark(" cosmohook | private | v0.2")
+library:CreateWatermark(" cosmohook | public as of 4/17/22 | v0.2")
 library.theme.accentcolor = Color3.fromRGB(155, 123, 219)
 library.theme.accentcolor2 = Color3.fromRGB(155, 123, 219)
 library.theme.topheight = 45
